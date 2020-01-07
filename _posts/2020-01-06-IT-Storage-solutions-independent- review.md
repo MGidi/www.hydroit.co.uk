@@ -17,7 +17,7 @@ Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and
 
 
 
-<h2>Isn’t all vendor just the same?</h2>
+<h2>Isn’t all the vendors are just the same?</h2>
 <b>In theory – yes,</b> they all use similar commodity base hardware and provide the same set of front-end protocols. They also all claim to have top of the class developer kit, security, efficiencies technology and the integration with dozens of other products. 
 
 

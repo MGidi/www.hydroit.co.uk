@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: single
 title:  "IT Storage solutions independent review"
 tags: [NetApp,Dell,Pure Storage,IBM]
 ---
 
 <h1>IT Storage solutions independent review.</h1>
-Storage systems tend to be the top most expensive kit in the modern data centre, sometimes they are being the only single point of failure in the datacentre, and many times function as the main bottleneck in the IT organization ability to scale.
+Storage systems tend to be the top most expensive kit in the modern datacentre, sometimes they are being the only single point of failure in the datacentre, and many times function as the main bottleneck in the IT organization ability to scale and respond to an Ad-Hoc demand.
 
 
-Hydro IT was founded by Gidi Marcus, a storage specialist with 8 years of in-depth experience deploying and maintaining storage products at growing enterprises in London.
+Hydro IT was founded by Gidi Marcus, a storage specialist with 8 years of in-depth experience deploying and maintaining storage and Microsoft products at growing enterprises in London.
 Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and Dell Compellent. Having the exposure to that many vendors and technologies and implementations, allows us to recommend you the right solution for the task, understand the sizing and cost models, point at the differences and compare between them - from the eyes of the customer.
 
 
@@ -18,7 +18,7 @@ Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and
 
 <b>In practice – we’re afraid not.</b>
 <ul>
-<li> Vendors do use different grade of hardware, some even not publishing their specs – but just IOPS capacity based on unrealistic benchmarks. </li>
+<li> Vendors do use different grade of hardware, some even not publishing their actual specs – but just IOPS capacity based on unrealistic benchmarks. </li>
 <li> Some behave very differently on different workload based on their backend processing (dedup, encryption, compression) and on edge-cases such as when they almost full, or when the data changes certain patterns. </li>
 <li> Some developer kits and migration tools are lacking – they are performing badly, offload error-handling to the developer, badly documented and sometimes frequently change while having badly implement backward capability. </li>
 <li> While they all tend to be, some are just too much of a “black box”, requiring each operation to be done by the vendor which increases the risks, limit the maintenance window flexibility, and lock the organization to not being able to do ANY operation without a valid support contract.</li>

@@ -1,5 +1,7 @@
 ---
 layout: single
+author_profile: true
+author: "Gidi Marcus"
 title:  "IT Storage solutions independent review"
 tags: [NetApp,Dell,Pure Storage,IBM]
 ---

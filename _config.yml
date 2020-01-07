@@ -120,9 +120,6 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/gidimarcus/"
-    - label: "+44(0)7873525044"
-      icon: "fas fa-fw fa-link"
-      url: "tel:+447873525044"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -135,6 +132,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "+44(0)7873525044"
+      icon: "fas fa-fw fa-link"
+      url: "tel:+447873525044"
 
 # Site Footer
 footer:

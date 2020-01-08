@@ -13,11 +13,9 @@ Automation can solve these issues. Sometime in a much lower cost then the organi
 <h3>Can any process be (or should be) automated?</h3>
 Yes, every process can be automated. But it’s important to analyse if and how to automate it, and whether if there’s an off-the-shelf product or a ready function/module that do this task more efficiently then building a custom in-house solution. 
 We will be happy to work with you to analyse the exact processes that can benefit from automation, and to match it to the right automation and scripting technologies.  
-
 <center><img src="/assets/images/Code_snippt.jpg"></center>
-
 <h3>Can you give an example of process you’ve automated?</h3>
-Sure, there’s many examples where we used existing automation technologies, but here some scripts we written from ground up, some of these publicly available online in our <a href="https://github.com/MGidi"> GitHub repositories </a> (Where not created for specific client or used client hours).
+Sure, there’s many examples where we used existing automation technologies, but here some scripts we written from ground up, some of these publicly available online in our <a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi"> GitHub repositories </a> (Where not created for specific client or used client hours).
 <ul><li>
 Creation and decommission of standardised shares, and permissioned folders within a DFSn structure, on multiple platforms (Windows cluster, Windows S/A file server, NetApp cluster Mode).
 </li><li>
@@ -26,15 +24,15 @@ Automation of a few file servers migration, some consists from hundreds of share
 </li><li>
 Automate a custom ticket creation for 1st line processing when a storage or other IT equipment triggers an alert, along with mechanism to add custom instructions for known issues and to match the incident priority to the alert severity.
 </li><li>
-Alerting on <a href="https://github.com/MGidi/PureStorage_Volume_Growth_Alerts"> abnormal growth of volumes on a storage system. </a>
+Alerting on <a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi/PureStorage_Volume_Growth_Alerts"> abnormal growth of volumes on a storage system. </a>
 </li><li>
 Clean up of old computer accounts, DNS entries and DNS zones consolidation. 
 </li><li>
-Querying different API’s, filtering and <a href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale.<a>
+Querying different API’s, filtering and <a target="_blank" rel="noopener noreferrer" href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale.<a>
 </li><li>
 Simple on-demand reports – Consolidated storage and compute capacity, AD group membership, Leftover files in datastores, breach of storage vendor best practice on servers and many more.
 </li><li>
-<a href="https://github.com/MGidi/NetAppCdotBestPracticeReportForNAS"> Standard alignment reports </a> – Following implementation of new solution, a report created to enforce and alert of breach of each one of the 17 standards written in the solution manual.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi/NetAppCdotBestPracticeReportForNAS"> Standard alignment reports </a> – Following implementation of new solution, a report created to enforce and alert of breach of each one of the 17 standards written in the solution manual.
 </li></ul>
 
 And many more…

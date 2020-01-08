@@ -16,6 +16,7 @@ We will be happy to work with you to analyse the exact processes that can benefi
 <center><img src="/assets/images/Code_snippt.jpg"></center>
 <h3>Can you give an example of process you’ve automated?</h3>
 Sure, there’s many examples where we used existing automation technologies, but here some scripts we written from ground up, some of these publicly available online in our <a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi"> GitHub repositories </a> (Where not created for specific client or used client hours).
+{::nomarkdown}
 <ul>
   <li>Creation and decommission of standardised shares, and permissioned folders within a DFSn structure, on multiple platforms (Windows cluster, Windows S/A file server, NetApp cluster Mode).</li>
   <li>Automation of a few file servers migration, some consists from hundreds of shares and 10’s millions of files, over a very short downtime. </li>
@@ -27,6 +28,7 @@ Sure, there’s many examples where we used existing automation technologies, bu
     <li>Simple on-demand reports – Consolidated storage and compute capacity, AD group membership, Leftover files in datastores, breach of storage vendor best practice on servers and many more.</li>
     <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi/NetAppCdotBestPracticeReportForNAS"> Standard alignment reports </a> – Following implementation of new solution, a report created to enforce and alert of breach of each one of the 17 standards written in the solution manual.</li>
 </ul>
+{:/}
 And many more…
 
 <h3>What tools do you use?</h3>

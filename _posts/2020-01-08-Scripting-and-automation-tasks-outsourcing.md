@@ -30,12 +30,13 @@ Alerting on <a href="https://github.com/MGidi/PureStorage_Volume_Growth_Alerts">
 </li><li>
 Clean up of old computer accounts, DNS entries and DNS zones consolidation. 
 </li><li>
-Querying different API’s, filtering and <a href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale <a>
+Querying different API’s, filtering and <a href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale.<a>
 </li><li>
 Simple on-demand reports – Consolidated storage and compute capacity, AD group membership, Leftover files in datastores, breach of storage vendor best practice on servers and many more.
 </li><li>
 <a href="https://github.com/MGidi/NetAppCdotBestPracticeReportForNAS"> Standard alignment reports </a> – Following implementation of new solution, a report created to enforce and alert of breach of each one of the 17 standards written in the solution manual.
 </li></ul>
+
 And many more…
 
 

@@ -23,7 +23,7 @@ Sure, there’s many examples where we used existing automation technologies, bu
   <li>Automate a custom ticket creation for 1st line processing when a storage or other IT equipment triggers an alert, along with mechanism to add custom instructions for known issues and to match the incident priority to the alert severity.</li>
   <li>Alerting on <a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi/PureStorage_Volume_Growth_Alerts"> abnormal growth of volumes on a storage system.</a></li>
   <li>Clean up of old computer accounts, DNS entries and DNS zones consolidation.</li>
-  <li>Querying different API’s, filtering and <a target="_blank" rel="noopener noreferrer" href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale.<a></li>
+  <li>Querying different API’s, filtering and <a target="_blank" rel="noopener noreferrer" href ="https://github.com/MGidi/UKPropertySearchesUsingAPIs"> reporting on UK properties for sale.</a></li>
   <li>Simple on-demand reports – Consolidated storage and compute capacity, AD group membership, Leftover files in datastores, breach of storage vendor best practice on servers and many more.</li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/MGidi/NetAppCdotBestPracticeReportForNAS"> Standard alignment reports </a> – Following implementation of new solution, a report created to enforce and alert of breach of each one of the 17 standards written in the solution manual.</li>
 </ul>

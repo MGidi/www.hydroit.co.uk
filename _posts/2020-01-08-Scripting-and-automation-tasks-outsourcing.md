@@ -6,7 +6,7 @@ title:  "Scripting and automation tasks outsourcing"
 tags: [NetApp,Pure Storage,Microsoft,PowerShell,Srctipts,Runbooks]
 ---
 
-Most organizations have some repetitive tasks that the IT department or a consultant have to spent long time doing again and again, these processes sometime depend on an approval or tasks done by other team - that an expensive IT resource have to spend in time chasing ,  all that while an actual business process is pending.  And when it finally completes you might find it was done in a non-standard or consistent way. 
+Most organizations have some repetitive tasks that the IT department or a consultant spends long time doing again and again, these processes sometime depend on an approval or tasks done by other team - that an expensive IT resource have to spend in time chasing ,  all that while an actual business process is pending.  And when it finally completes you might find it was done in a non-standard or consistent way. 
 
 Automation can solve these issues. Sometime in a much lower cost then the organization spending on the manual task in a very short period. It of course improves the overall productivity and increase the individual’s satisfaction from the process being more efficient. We tried to answer some of the questions you may have regarding automation:
 

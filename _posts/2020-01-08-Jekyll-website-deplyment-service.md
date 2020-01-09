@@ -36,6 +36,6 @@ With Jekyll and the integration service we provide – the site is yours from da
 We will also not charge you any annual or monthly fee, but only charge per request and time invested in building or changing the site.
 
 ## Who will design the site?
-Jekyll has hundreds of themes - free and paid for, you can brose them through the [Jekyll official site](https://jekyllrb.com/resources/). And we can help with customising the functionality, and to liaise with a graphic designer to edit the design itself or to create a complete new one. 
+Jekyll has hundreds of themes - free and paid for, you can browse them through the [Jekyll official site](https://jekyllrb.com/resources/). And we can help with customising the functionality, and to liaise with a graphic designer to edit the design itself or to create a complete new one. 
 
 ### If you want to read more about the Jekyll philosophy - [click here](https://jekyllrb.com/philosophy/)

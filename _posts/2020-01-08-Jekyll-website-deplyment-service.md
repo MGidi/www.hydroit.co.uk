@@ -35,7 +35,7 @@ Since there is no database at the backend, we can’t store any user content or 
 
 
 ## Why others not offering this service, and what the added value Hydro IT bring?
-It’s much more common to see providers offering WordPress or WIX sites, there’s two reasons for it:
+It’s much more common to see providers offering WordPress, Drupal or WIX sites, there’s two reasons for it:
 First – it’s the standard, it comes with an easy editor that content admins know and comfortable with.
 Second – it’s more profitable - it billed along with a monthly hosting, maintenance and ad-hoc support.
 With Jekyll and the integration service we provide – the site is yours from day 1. We do not hold any key, password or information for it – we just have access to a free GitHub repository you own, and to the domain register site. Both are access that you can revoke at any time.

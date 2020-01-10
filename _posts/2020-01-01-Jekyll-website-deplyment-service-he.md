@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "האתר שוב נפרץ? מאוכזבים מהספקים השונים? יש לנו מערכת ניהול תוכן שאפשר לסמוך עליה!"
 tags: [Blog,Website,static site,Jekyll,בניית אתרים,אתר סטטי,בלוגים,מערכת ניהול תוכן]
 ---

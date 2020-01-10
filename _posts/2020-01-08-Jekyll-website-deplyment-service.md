@@ -19,14 +19,14 @@ Some will read this and immediately respond that this is “old school”, but i
 
 ## How is the static page built?
 As mentioned, we are deploying an open-source content management system called Jekyll, you can see [Here](https://jekyllrb.com/showcase/) examples to many enterprises and government sites built on this technology.
-The different text files (MD files and config files) are saved in the site folder. Upon uploading them to a Jekyll-compatible code repository provider (such GitHub) or running a command locally, the site get built in less than a minute and pushed automatedly or manually to a hosting provider ready to be served.
+The different text files (MD files and config files) are saved in the site folder. Upon uploading them to a Jekyll-compatible code repository provider (such GitHub or Bitbucket) or running a command locally, the site get built in less than a minute and pushed automatedly or manually to a hosting provider ready to be served.
 
 See here a quick video describing the benefits of a static site with Jekyll:
 {% include youtubePlayer.html id="t3yEhIAOeg8" %}
 
 ## Where can it be hosted?
 We will most likely start by recommending hosing it in GitHub, it’s free, provide 1GB of storage and up to 100GB bandwidth a month, it comes with a built-in “Let’s encrypt” SSL certificate with automatic renewal service, It has version control, user delegation with 2FA and more.
-If the free option exhausted or not fit-for-purpose, we can front it with free or paid for CDN service, or offload it to scalable GitHub integrated service like Azure Pipeline, AWS CodeBuild or Google Cloud Build – or even all three for high availability.
+If the free option exhausted or not fit-for-purpose, we can front it with free or paid for CDN service, or offload it to scalable GitHub/Bitbucket integrated service like Azure Pipeline, AWS CodeBuild or Google Cloud Build – or even all three for high availability.
 
 ## What can’t we do with it?
 Since there is no database at the backend, we can’t store any user content or data with it, can’t process sales transaction (in a built-in way) and we can’t block or really hide any content from users – the entire site is technically open to everyone. Having said that, there’s many 3rd party tools – some already integrated in Jekyll to provides some services, such comments, user statistics, social media sharing functionality and others… and you can always link to an external system or plug-in to do these tasks while keeping your front page highly available, fast performing and secure. One more thing you don’t get with it is a built-in reach text editor, instead, you’ll be editing text files in a format called Markdown (MD), which is very similar to how Wikipedia pages are written. You can see the example of this page MD file below, and the full file is in [here](https://raw.githubusercontent.com/MGidi/gidi.hydroit.co.uk/master/_posts/2020-01-08-Jekyll-website-deplyment-service.md). We promise – it’s much easier than it first seems. There some software available to help with it, and tools to migrate from - and live integrate with existing WordPress site.
@@ -38,7 +38,7 @@ Since there is no database at the backend, we can’t store any user content or 
 It’s much more common to see providers offering WordPress, Drupal or WIX sites, there’s two reasons for it:
 First – it’s the standard, it comes with an easy editor that content admins know and comfortable with.
 Second – it’s more profitable - it billed along with a monthly hosting, maintenance and ad-hoc support.
-With Jekyll and the integration service we provide – the site is yours from day 1. We do not hold any key, password or information for it – we just have access to a free GitHub repository you own, and to the domain register site. Both are access that you can revoke at any time.
+With Jekyll and the integration service we provide – the site is yours from day 1. We do not hold any key, password or information for it – we just have access to a free GitHub/Bitbucket repository you own, and to the domain register site. Both are access that you can revoke at any time.
 We will also not charge you any annual or monthly fee, but only charge per request and time invested in building or changing the site.
 
 ## Who will design the site?

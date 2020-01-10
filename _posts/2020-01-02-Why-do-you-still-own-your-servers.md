@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "האם יש באמת סיבה טובה להמשיך ולהחזיק שרתים בבעלות החברה?"
 tags: [עברית,בריטניה,מייקרוסופט,ענן,enterprise]
 ---

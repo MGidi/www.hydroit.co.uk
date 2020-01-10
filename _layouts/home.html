@@ -4,6 +4,18 @@ layout: archive
 
 {{ content }}
 
+<h3 class="archive__subtitle">About</h3>
+<div dir="auto" class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <p class="archive__item-excerpt" itemprop="description">
+Hydro IT was Founded by Gidi Marcus, a storage and Microsoft consultant based in London, UK.
+The company offer IT infrastructure design, commission and migration services to enterprises and medium size business.
+To learn more about the service offering and technologies we specialize in, please see the 
+articles below, the founder [linkedin page](https://www.linkedin.com/in/gidimarcus/) or contact us by mail [mailto:hello@h2it.uk](hello@h2it.uk).
+    </p>
+  </article>
+</div>
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}

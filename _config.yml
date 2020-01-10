@@ -114,6 +114,9 @@ author:
  # location         : "London"
  # email            : "hello@h2it.uk"
   links:
+    - label: "+44(0)7873525044"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+447873525044"
     - label: "hello@h2it.uk"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hello@h2it.uk"
@@ -132,9 +135,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "+44(0)7873525044"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:+447873525044"
+
 
 # Site Footer
 footer:

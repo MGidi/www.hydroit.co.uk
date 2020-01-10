@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "Scripting and automation tasks outsourcing"
 tags: [NetApp,Pure Storage,Microsoft,PowerShell,Srctipts,Runbooks]
 ---

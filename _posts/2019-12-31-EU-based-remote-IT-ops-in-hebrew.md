@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "תמיכה ותפעול מערכות המחשוב בעברית - על ידי מומחים באירופה"
 tags: [עברית,בריטניה,מייקרוסופט,אירופה,לונדון,Microsoft]
 gallery:

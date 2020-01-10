@@ -21,6 +21,9 @@ Some will read this and immediately respond that this is “old school”, but i
 As mentioned, we are deploying an open-source content management system called Jekyll, you can see [Here](https://jekyllrb.com/showcase/) examples to many enterprises and government sites built on this technology.
 The different text files (MD files and config files) are saved in the site folder. Upon uploading them to a Jekyll-compatible code repository provider (such GitHub) or running a command locally, the site get built in less than a minute and pushed automatedly or manually to a hosting provider ready to be served.
 
+See here a quick video describing the benefits of a static site with Jekyll:
+{% include youtubePlayer.html id="t3yEhIAOeg8" %}
+
 ## Where can it be hosted?
 We will most likely start by recommending hosing it in GitHub, it’s free, provide 1GB of storage and up to 100GB bandwidth a month, it comes with a built-in “Let’s encrypt” SSL certificate with automatic renewal service, It has version control, user delegation with 2FA and more.
 If the free option exhausted or not fit-for-purpose, we can front it with free or paid for CDN service, or offload it to scalable GitHub integrated service like Azure Pipeline, AWS CodeBuild or Google Cloud Build – or even all three for high availability.

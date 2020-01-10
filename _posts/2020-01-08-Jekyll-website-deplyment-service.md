@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "Your blog/site hacked again? had enough with your 3rd party dependency? – we implement a content system you can trust!"
 tags: [Blog,Website,static site,Jekyll]
 ---

@@ -118,7 +118,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:hello@h2it.uk"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gidimarcus/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -133,14 +133,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "+44(0)7873525044"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-phone"
       url: "tel:+447873525044"
 
 # Site Footer
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gidimarcus/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -161,7 +161,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "+44(0)7873525044"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-phone"
       url: "tel:+447873525044"
 
 

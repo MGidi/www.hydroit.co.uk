@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-author: "Gidi Marcus"
 title:  "עזרה והכוונה למומחי תוכנה ומערכות מידע במעבר מישראל לבריטניה"
 tags: [עברית,בריטניה,הגירה,מעבר,קורות חיים,אנגלית,ראיון,אירופה,לונדון,relocation]
 ---

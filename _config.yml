@@ -119,7 +119,7 @@ author:
     icon: fas fa-fw fa-phone
     url: tel:+447873525044
   - label: Whatsapp call/text
-    icon: fab fa fa-whatsapp
+    icon: fa fa-whatsapp
     url: https://wa.me/447873525044
   - label: hello@h2it.uk
     icon: fas fa-fw fa-envelope-square

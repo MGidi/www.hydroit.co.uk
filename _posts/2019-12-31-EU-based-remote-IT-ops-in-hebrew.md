@@ -1,17 +1,23 @@
 ---
+title: תמיכה ותפעול מערכות המחשוב בעברית - על ידי מומחים באירופה
 layout: single
 author_profile: true
-title:  "תמיכה ותפעול מערכות המחשוב בעברית - על ידי מומחים באירופה"
-tags: [עברית,בריטניה,מייקרוסופט,אירופה,לונדון,Microsoft]
+tags:
+- עברית
+- בריטניה
+- מייקרוסופט
+- אירופה
+- לונדון
+- Microsoft
 gallery:
-  - url: /assets/images/Flags/1280px-Flag_of_Israel.svg.png
-    image_path: /assets/images/Flags/1280px-Flag_of_Israel.svg.png
-    alt: "IL Flag"
-    title: "Hydro IT Hebrew IT Services in Europe"
-  - url: /assets/images/Flags/1920px-Flag_of_Europe.svg.png 
-    image_path: /assets/images/Flags/1920px-Flag_of_Europe.svg.png 
-    alt: "EU Flag"
-    title: "Hydro IT EU IT Services"
+- url: "/assets/images/Flags/1280px-Flag_of_Israel.svg.png"
+  image_path: "/assets/images/Flags/1280px-Flag_of_Israel.svg.png"
+  alt: IL Flag
+  title: Hydro IT Hebrew IT Services in Europe
+- url: "/assets/images/Flags/1920px-Flag_of_Europe.svg.png"
+  image_path: "/assets/images/Flags/1920px-Flag_of_Europe.svg.png"
+  alt: EU Flag
+  title: Hydro IT EU IT Services
 ---
 
 חברת Hydro IT הוקמה ופועלת מלונדון ומשתפת פעולה עם מומחי IT עצמאיים הפזורים ברחבי אירופה ומתמחים בהקמה ותפעול של מערכות IT מבוססות מייקרוסופט. אנו רואים במיקומנו ברחבי אירופה ייתרון משמעותי המאפשר לנו לספק שרותים אסטרטגיים לחברות הדורשות תקשורת בעברית מחד ומאידך מענה מהיר בשעות ובימי העבודה הנהוגים באירופה ובחוות שרתים ומשרדים המופעלים בייבשת.

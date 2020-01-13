@@ -1,8 +1,12 @@
 ---
+title: IT Storage solutions independent review
 layout: single
 author_profile: true
-title:  "IT Storage solutions independent review"
-tags: [NetApp,Dell,Pure Storage,IBM]
+tags:
+- NetApp
+- Dell
+- Pure Storage
+- IBM
 ---
 
 Storage systems tend to be the top most expensive kit in the modern datacentre, sometimes they are being the only single point of failure in the datacentre, and many times function as the main bottleneck in the IT organization ability to scale and respond to an Ad-Hoc demand.

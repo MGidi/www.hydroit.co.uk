@@ -1,8 +1,14 @@
 ---
+title: Scripting and automation tasks outsourcing
 layout: single
 author_profile: true
-title:  "Scripting and automation tasks outsourcing"
-tags: [NetApp,Pure Storage,Microsoft,PowerShell,Srctipts,Runbooks]
+tags:
+- NetApp
+- Pure Storage
+- Microsoft
+- PowerShell
+- Srctipts
+- Runbooks
 ---
 
 Most organizations have some repetitive tasks that the IT department or a consultant spends long time doing again and again, these processes sometime depend on an approval or tasks done by other team - that an expensive IT resource have to spend in time chasing ,  all that while an actual business process is pending.  And when it finally completes you might find it was done in a non-standard or consistent way. 

@@ -118,9 +118,9 @@ author:
   - label: "+44(0)7873525044"
     icon: fas fa-fw fa-phone
     url: tel:+447873525044
-  - label: Whatsapp call/text
-    icon: fa fa-whatsapp
-    url: https://wa.me/447873525044
+  #- label: Whatsapp call/text
+   # icon: fa fa-whatsapp
+    #url: https://wa.me/447873525044
   - label: hello@h2it.uk
     icon: fas fa-fw fa-envelope-square
     url: mailto:hello@h2it.uk

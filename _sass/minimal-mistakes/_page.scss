@@ -446,25 +446,25 @@ body {
 
 .comment__avatar-wrapper {
   float: left;
-  width: 120px;
-  height: 120px;
+  width: 60px;
+  height: 60px;
 
   @include breakpoint($large) {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 }
 
 .comment__avatar {
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
 
   @include breakpoint($large) {
-    width: 160px;
-    height: 160px;
-    padding: 10px;
-    border: 2px solid $border-color;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    border: 1px solid $border-color;
   }
 }
 

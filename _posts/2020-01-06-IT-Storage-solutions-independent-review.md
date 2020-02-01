@@ -13,7 +13,7 @@ Storage systems tend to be the top most expensive kit in the modern datacentre, 
 
 
 Hydro IT was founded by Gidi Marcus, a storage specialist with 8 years of in-depth experience deploying and maintaining storage and Microsoft products at growing enterprises in London.
-Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and Dell Compellent. Having the exposure to that many vendors and technologies and implementations, allows us to recommend you the right solution for the task, understand the sizing and cost models, point at the differences and compare between them - from the eyes of the customer.
+Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and Dell Compellent. Having the exposure to that many vendors, technologies and implementations allows us to recommend you the right solution for the task, understand the sizing and cost models, point at the differences and compare between them - from the eyes of the customer.
 
 
 <center><img src="/assets/images/Gidi_classroom.jpeg" width="500"></center>

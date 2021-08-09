@@ -1,6 +1,5 @@
 ---
-title: Your blog/site hacked again? had enough with your 3rd party dependency? – we
-  implement a content system you can trust!
+title: A scalable static content management system deployment 
 date: 2020-01-08 00:00:00 Z
 tags:
 - Blog

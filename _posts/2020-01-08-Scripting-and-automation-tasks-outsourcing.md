@@ -1,5 +1,5 @@
 ---
-title: Scripting and automation tasks outsourcing
+title: Scripting and automation outsourcing service
 layout: single
 author_profile: true
 tags:

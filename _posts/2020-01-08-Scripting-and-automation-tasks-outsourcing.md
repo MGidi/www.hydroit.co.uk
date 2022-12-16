@@ -11,9 +11,7 @@ tags:
 - Runbooks
 ---
 
-Most organizations have some repetitive tasks that the IT department or a consultant spends long time doing again and again, these processes sometime depend on an approval or tasks done by other team - that an expensive IT resource have to spend in time chasing ,  all that while an actual business process is pending.  And when it finally completes you might find it was done in a non-standard or consistent way. 
-
-Automation can solve these issues. Sometime in a much lower cost then the organization spending on the manual task in a very short period. It of course improves the overall productivity and increase the individual’s satisfaction from the process being more efficient. We tried to answer some of the questions you may have regarding automation:
+Many organizations have repetitive tasks that their IT department or a consultant frequently performs, which may require approval or input from other teams and can be time-consuming for the IT resource. These processes may also be completed in a non-standard or inconsistent way. Automation can help address these issues by streamlining the process and reducing the cost of performing the tasks manually. It can also improve overall productivity and increase satisfaction by making the process more efficient. Here are some possible questions you may have about automation:
 
 <h3>Can any process be (or should be) automated?</h3>
 Yes, every process can be automated. But it’s important to analyse if and how to automate it, and whether if there’s an off-the-shelf product or a ready function/module that do this task more efficiently then building a custom in-house solution. 
@@ -35,4 +33,4 @@ Sure, there’s many examples where we used existing automation technologies, bu
 And many more…
 
 <h3>What tools do you use?</h3>
-We believe in finding the right tool for the task, while trying to utilize existing assets and technologies the organization already have. The tools we mainly used so far are PowerShell, VBS, AutoIT, Microsoft SC Orchestrator, NetApp WorkFlow Automation (WFA), VisualCron,  Microsoft DSC, Windows GPO and more… 
+We believe in finding the right tool for the task, while trying to utilize existing assets and technologies the organization already have. The tools we mainly used so far are Ansible, Terraform, PowerShell, VBS, AutoIT, Microsoft SC Orchestrator, NetApp WorkFlow Automation (WFA), VisualCron, Azure DevOps,  Microsoft DSC, Windows GPO and more… 

@@ -9,15 +9,9 @@ tags:
 - IBM
 ---
 
-Storage systems tend to be the top most expensive kit in the modern datacentre, sometimes they are being the only single point of failure in the datacentre, and many times function as the main bottleneck in the IT organization ability to scale and respond to an Ad-Hoc demand.
-
-
-Hydro IT was founded by Gidi Marcus, a storage specialist with 8 years of in-depth experience deploying and maintaining storage and Microsoft products at growing enterprises in London.
-Among other vendors we specialize in the NetApp portfolio, IBM, Pure Storage and Dell Compellent. Having the exposure to that many vendors, technologies and implementations allows us to recommend you the right solution for the task, understand the sizing and cost models, point at the differences and compare between them - from the eyes of the customer.
-
+Storage systems are often the most expensive equipment in modern data centers and can often be a single point of failure or the main bottleneck for an organization's ability to scale and respond to ad-hoc demands. Hydro IT, founded by Gidi Marcus, a storage specialist with 15 years of experience working with storage and Microsoft products at enterprises in London and abroad, specialized in the NetApp portfolio, IBM, Pure Storage, and Dell Compellent. Our extensive experience with a range of vendors and technologies enables us to provide unbiased recommendations for the most suitable solution for your specific needs, accurately assess the required sizing and cost models, and clearly outline the differences between options from the solution and customer's perspective.
 
 <center><img src="/assets/images/Gidi_classroom.jpeg" width="500"></center>
-
 
 
 <h2>Isn’t all the vendors are just the same?</h2>
